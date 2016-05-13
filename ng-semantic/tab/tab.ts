@@ -1,4 +1,4 @@
-import { Component, Query, QueryList, AfterViewInit, ElementRef, Input } from "angular2/core";
+import { Component, Query, QueryList, AfterViewInit, ElementRef, Input } from "@angular/core";
 
 declare var jQuery: any;
 
